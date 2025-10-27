@@ -43,9 +43,3 @@ The system also calculates the additional cash required if the canteen amount ex
 
 ---
 
-## ▶️ Run Instructions
-To compile and simulate with **Icarus Verilog (iverilog)**:
-
-```bash
-iverilog -o mess_credit_sim mess_credit_main.v mess_credit_tb.v
-vvp mess_credit_sim
