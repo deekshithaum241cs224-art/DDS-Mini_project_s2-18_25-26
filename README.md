@@ -1,1 +1,1 @@
-# DDS-Mini_project_s2-18_25-26
+# Canteen_Credit_Management_system_s2-18_25-26
